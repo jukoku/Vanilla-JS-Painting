@@ -1,0 +1,16 @@
+{
+    "window.zoomLevel": 2,
+    "diffEditor.maxComputationTime": 10000,
+    "git.autofetch": true,
+    "workbench.colorTheme": "Material Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
+    "editor.formatOnSave": true,
+    "eslint.format.enable": true,
+    "remote.WSL.fileWatcher.polling": true,
+    "prettier.endOfLine": "auto",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.proseWrap": "always",
+    "prettier.trailingComma": "all",
+}
